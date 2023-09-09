@@ -30,9 +30,9 @@ setup(
     version=version,
     description="Simple BIP32 (HD) wallet creation for BTC, BTG, BCH, LTC, DASH, USDT, QTUM and DOGE",
     long_description=long_description,
-    url='https://github.com/ranaroussi/pywallet',
-    author='Ran Aroussi',
-    author_email='ran@aroussi.com',
+    url='https://github.com/Darirok2/pywallet_update',
+    author='Darirok2',
+    author_email='NONE',
     license='MIT License',
     classifiers=[
         "License :: OSI Approved :: MIT License",
